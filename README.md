@@ -43,4 +43,4 @@ model training, evaluation, and deployment.
 | Random Forest| 91%      | 0.90     |
 
 ## 👤 Author
-Your Name — github.com/your-username
+Muhammad Aftab Anwar — github.com/muhammadaftab1
